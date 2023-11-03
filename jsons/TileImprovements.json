@@ -1,0 +1,15 @@
+[
+	{
+	"name": "Molino",
+	"production": 2,
+	"turnsToBuild": 7,
+	"terrainsCanBeBuiltOn":	"Hill",
+	"uniques":
+		[
+		"[+1 Food] for each adjacent [Farm]",
+		"[+1 Food] for each adjacent [Pasture]",
+		"Only available <after discovering [Economics]>",
+		"Only available <with [1] to [6] neighboring [Farm] tiles>"
+		]
+	}
+]
